@@ -34,7 +34,7 @@ Actively building my portfolio through hands-on projects and continuous learning
 
 - 📧 **Email:** jahriaszion@icloud.com
 - 🐙 **GitHub Repos:** Check out my pinned projects below!
-- 🔗 *LinkedIn (https://www.linkedin.com/in/jahria-s-zion-91a60a331/)*
+- 🔗 *LinkedIn (https://www.linkedin.com/in/jahria-s-zion/)*
 
 ---
 
