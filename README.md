@@ -42,7 +42,7 @@ Actively building my portfolio through hands-on projects and continuous learning
 ## ⚙️ Tech Stack
 
 - **Game Engine:** Unreal Engine 5
-- **Languages:** C++ (learning), Blueprint Visual Scripting
+- **Languages:** C++, Blueprint Visual Scripting
 - **Tools:** Git / GitHub, Visual Studio, Quixel Megascans, Blender (introductory)
 - **Workflow:** Agile-inspired self-managed projects, version control with Git
 
