@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/jahriazion/EdgePilot-/main/EdgePilot_v2.2.2_Banner.png" alt="EdgePilot v2.2.2 Banner" width="100%">
-</p>
+  <br>
+  <em>Minimalist crypto trading copilot – v2.2.2</em>
+</p>p
 # **Full-Stack Engineer & UE5 Game Developer**  
 **Multiplayer Systems | Scalable Web & Game Architecture**
 
