@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./EdgePilot_v2.2.2_Banner.png" alt="EdgePilot v2.2.2 Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/jahriazion/EdgePilot-/main/EdgePilot_v2.2.2_Banner.png" alt="EdgePilot v2.2.2 Banner" width="100%">
 </p>
 # **Full-Stack Engineer & UE5 Game Developer**  
 **Multiplayer Systems | Scalable Web & Game Architecture**
