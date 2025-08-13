@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="EdgePilot_v2.2.2_Banner.png" alt="EdgePilot v2.2.2 – AI Signals (BTC & XMR)">
+  <img src="banner.png" alt="EdgePilot v2.2.2 Banner" width="100%">
 </p>
 # **Full-Stack Engineer & UE5 Game Developer**  
 **Multiplayer Systems | Scalable Web & Game Architecture**
